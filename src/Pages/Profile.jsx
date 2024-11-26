@@ -45,17 +45,23 @@ function Profile() {
 
       <p>
         👋🏽 Hi, my name is Sunny in English, Soeui in Korean, and Xiaoyi in Chinese.
-
+      </p>
+      <p>
         🎓 Graduated with a Bachelor of Computer Engineering. (May 2024)
-
+      </p>
+      <p>
         🌇 Third culture kid, with a passion for software/hardware development searching for experiences and strategies to further grow my skills.
-
+      </p>
+      <p>
         📚 Worked as a quality assurance intern in RAON Secure, where I got to create automated testing software for various products using Appium, python, and node.js. Have also experience in project management with a demonstrated history of working in the modeling/entertainment industry. I worked as a general manager/ co-ordinator in the Grin Modeling Agency managing commercials, photoshoots, TV shows, creative content, etc., and negotiations with agencies around the world.
-
+      </p>
+      <p>
         💻 As for my future, I hope to one day work as a software developer and work with a diverse team of intelligent engineers and develop innovative solutions that will increase efficiency worldwide  
-
+      </p>
+      <p>
         🏔 In my free time, you can find me rock climbing, crocheting or even performing in a band!
-
+      </p>
+      <p>
         💪🏽 Problem-Solving, Critical Thinking, Research, Leadership, Communication
       </p>
 
