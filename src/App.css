@@ -48,17 +48,18 @@ p {
 
 h1 {
   text-transform: uppercase;
-}
-
-h2,
-h3 {
-  font-size: 20px;
-}
-
-h1 {
   font-family: 'Rubik', sans-serif;
   font-size: 32px;
 }
+
+h2{
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 15px;
+}
+
 
 p {
   font-size: 16px;
@@ -73,6 +74,11 @@ p {
   cursor: pointer;
 }
 
+.aboutmepopup {
+  --btn-color: #8a8a8a;
+}
+
+
 
 
 @media (width >= 800px) {
@@ -80,7 +86,7 @@ p {
     gap: 100px;
   }
   h1 {
-    font-size: 40px;
+    font-size: 48px;
   }
   h2,
   h3 {
@@ -93,7 +99,6 @@ p {
   .sectionTitle {
     margin-bottom: 60px;
   }
-  
 
   @media (width >= 1400px) {
     #root {
